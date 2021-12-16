@@ -1,0 +1,5 @@
+-Importar repositorio do github:
+git clone endereço https do repositorio
+
+-Entrar em um repositório:
+cd nome do repositório/
